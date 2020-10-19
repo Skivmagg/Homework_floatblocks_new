@@ -4,21 +4,20 @@ body {
 }
 .all{
     float: left;
+    padding-top: 5px;
+    padding-left: 5px;
 }
 .block1 {
     background: black;
-    width: 810px;
-    height: 510px;
+    width: 815px;
+    height: 515px;
 }
-
 .block2 {
     background: orange;
     width: 803px;
     height: 100px;
     float: left;
-
 }
-
 .block3 {
     background: red;
     width: 200px;
@@ -26,28 +25,24 @@ body {
     float: left;
     clear: both;
 }
-
 .block4 {
     background: green;
     width: 200px;
     height: 303px;
     float: left;
 }
-
 .block5 {
     background: blue;
     width: 200px;
     height: 303px;
     float: left;
 }
-
 .block6 {
     background: black;
     width: 203px;
     height: 303px;
     float: left
 }
-
 .block7 {
     background: orange;
     width: 803px;
