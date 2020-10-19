@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.all{
+    float: left;
+}
+.block1 {
+    background: black;
+    width: 810px;
+    height: 510px;
+}
+
+.block2 {
+    background: orange;
+    width: 803px;
+    height: 100px;
+    float: left;
+
+}
+
+.block3 {
+    background: red;
+    width: 200px;
+    height: 303px;
+    float: left;
+    clear: both;
+}
+
+.block4 {
+    background: green;
+    width: 200px;
+    height: 303px;
+    float: left;
+}
+
+.block5 {
+    background: blue;
+    width: 200px;
+    height: 303px;
+    float: left;
+}
+
+.block6 {
+    background: black;
+    width: 203px;
+    height: 303px;
+    float: left
+}
+
+.block7 {
+    background: orange;
+    width: 803px;
+    height: 100px;
+    clear: both;
+}
